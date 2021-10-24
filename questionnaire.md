@@ -20,8 +20,9 @@ Backend:
 + Adding the values to a database stored on the cloud (like AWS), and update the values in the database instead of calling the values directly through the backend
 
 Frontend:
-+ Created a more interactive website (maybe users can see historical data, get a link to the exchanges, etc...)
-+ Refresh the prices automatically instead of having to click on the refresh button
++ Adding mobile support
++ Creating a more interactive website (maybe users can see historical data, get a link to the exchanges, etc...)
++ Refreshing the prices automatically instead of having to click on the refresh button
 
 Other ideas:
 + Giving the user a chance to link their Coinbase and Kraken account to be able to buy directly from the website
