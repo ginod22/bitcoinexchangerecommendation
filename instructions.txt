@@ -1,0 +1,25 @@
+Requirements:
+
+A Linux System with Python 3 installed
+
+Step 1:
+Run the following command to install virtualenv:
+pip install virtualenv
+
+Step 2:
+Run the following command to activate venv:
+. venv/bin/activate
+
+Step 3:
+Download the main.py and template folders present and move them to the new folder you created in step 1(called venv)
+
+Step 4:
+Run the following commands:
+export FLASK_APP=main.py
+set FLASK_APP=main.py
+flask run
+
+After that, the web page should be running
+
+
+
